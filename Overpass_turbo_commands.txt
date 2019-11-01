@@ -1,0 +1,15 @@
+way
+  [highway=motorway]
+  (49.07,8.08,49.91,9.65);
+/*added by auto repair*/
+(._;>;);
+/*end of auto repair*/
+out;
+
+way
+  [landuse=forest]
+  (49.07,8.08,49.91,9.65);
+/*added by auto repair*/
+(._;>;);
+/*end of auto repair*/
+out;
